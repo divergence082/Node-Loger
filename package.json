@@ -1,0 +1,5 @@
+{
+  "name": "node-loger",
+  "version": "0.0.1",
+  "main": "bin/index.js"
+}
