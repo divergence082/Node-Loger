@@ -1,8 +1,5 @@
 {
-  "name": "node-loger",
+  "name": "node-logger",
   "version": "0.0.1",
-  "main": "bin/index.js",
-  "publishConfig": {
-    "registry": "http://sonatype-nexus.livetex.ru/nexus/content/repositories/livetex-npm/"
-  }
+  "main": "bin/index.js"
 }
